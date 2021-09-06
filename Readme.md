@@ -113,17 +113,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
   <td align="center" valign="middle"><a href="https://www.anonymistic.com/" target="_blank"><img src="https://nestjs.com/img/anonymistic-logo.png" width="125" valign="middle" /></a></td>
 <td align="center" valign="middle"><a href="https://www.naologic.com/" target="_blank"><img src="https://nestjs.com/img/naologic-logo.svg" width="125" valign="middle" /></a></td>
   </tr></table>
-
-## Backers
-
-<a href="https://opencollective.com/nest" target="_blank"><img src="https://opencollective.com/nest/backers.svg?width=1000"></a>
-
-## Stay in touch
-
-* Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-* Website - [https://nestjs.com](https://nestjs.com/)
-* Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
